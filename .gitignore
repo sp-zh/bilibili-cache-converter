@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+._*
+*.mp4
+*.m4s
+*.part.mp4
